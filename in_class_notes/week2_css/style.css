@@ -1,0 +1,33 @@
+div{
+    width: 500px;
+    height: 400px;
+    background-color: antiquewhite;
+}
+p{
+    background-color: aquamarine;   
+}
+.blue-paragraph {
+    color: blue;
+}
+p{
+    background-color: aliceblue;
+}
+#unique-pink-paragraph{
+    color:pink;
+}
+.another-class{
+    color:darkseagreen;
+}
+.blue-paragraph.another-class{
+    color:purple;
+}
+div p {
+    background-color:pink;
+}
+p.blue{
+    color:blue;
+}
+
+/*
+this is a comment.
+*/
