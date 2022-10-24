@@ -1,0 +1,25 @@
+
+p{
+    font-family: 'Times New Roman', serif; 
+    text-align:center;
+    color:brown;
+}
+
+body {
+    background-color:#faf7ed;
+}
+
+a:link {
+    color:palevioletred
+}
+
+a:hover{
+    color:darkred
+}
+
+a:visited{
+    color:darkred
+}
+/*
+this is a comment.
+*/
