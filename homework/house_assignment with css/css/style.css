@@ -14,11 +14,11 @@ a:link {
 }
 
 a:hover{
-    color:darkred
+    color:mediumvioletred
 }
 
-a:visited{
-    color:darkred
+audio{
+    align-items: center;
 }
 /*
 this is a comment.
