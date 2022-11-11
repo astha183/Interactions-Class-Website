@@ -1,0 +1,38 @@
+@import url('https://fonts.googleapis.com/css2?family=Barlow+Semi+Condensed&family=Calistoga&display=swap');
+    
+img{
+    width:18%;
+    height:18%;
+    margin: auto;
+    display: block;
+}
+body {
+    background-color:#f7f7f7
+}
+p {
+    text-align:center;
+}
+.subheading{
+    color:#5e5d5d;
+    font-size:20px;
+    font-family: 'Calistoga', cursive;
+}
+.heading{
+    color:darkred;
+    font-size:28px;
+        font-family: 'Calistoga', cursive;
+}
+.foodname{
+    color:darkred;
+    font-size:17px;
+    font-family: 'Calistoga', cursive;
+}
+.fooddesc {
+    color:#5e5d5d;
+    font-size:14px;
+        font-family: 'Barlow Semi Condensed', sans-serif;
+}
+.perperson{
+    color:darkred;
+    font-family: 'Barlow Semi Condensed', sans-serif;
+}
