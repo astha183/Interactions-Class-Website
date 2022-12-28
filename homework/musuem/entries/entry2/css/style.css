@@ -1,0 +1,26 @@
+pre {
+    text-align:center;
+    color:white;
+}
+
+p {
+   text-align:center; 
+    font-family:monospace;
+    font-size:
+}
+.hidden{
+    color:#6f3d75;
+}
+
+body{
+    background-color:#6f3d75;
+}
+
+.hidden:hover{
+    color:#aa8ead;
+}
+
+a{
+    color:beige
+}
+

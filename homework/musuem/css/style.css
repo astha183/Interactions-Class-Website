@@ -1,0 +1,37 @@
+pre {
+    text-align:center;
+    color:white;
+}
+
+p {
+   text-align:center; 
+    font-family:monospace;
+    color:white;
+    vertical-align: middle;
+}
+.hidden{
+    color:#6f3d75;
+}
+
+body{
+    background-color:black;
+}
+
+a:hover{
+    color:mediumvioletred;
+}
+
+a{
+    color:pink
+}
+
+.heading{
+    font-size:16px;
+}
+
+div {
+        padding: 70px 0;
+  border: 3px solid green;
+  text-align: center;
+      }
+

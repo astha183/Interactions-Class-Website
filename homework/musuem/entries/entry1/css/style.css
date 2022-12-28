@@ -1,0 +1,40 @@
+pre {
+    text-align:center;
+    color:white;
+}
+
+p {
+   text-align:center; 
+    font-family:monospace;
+}
+
+body{
+    background-color:#2d2669;
+}
+
+a:hover{
+    color:#d4574e;
+}
+
+a{
+    color:beige
+}
+
+div {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.main{
+    font-size:50px;
+}
+.stanza{
+    color:white;
+}
+
+.last{
+    font-size:50px;
+    color:white;
+}
