@@ -1,0 +1,46 @@
+p {
+    font-family:monospace;
+    color:#823049;
+}
+
+#fuck{
+    font-size:24px;
+    color:white;
+}
+
+#blessed{
+    font-size:24px;
+    color:white;
+}
+
+body{
+    background-color:#823049;
+}
+
+a{
+    color:beige
+}
+
+title{
+    color:white
+}
+
+* {
+  box-sizing: border-box;
+}
+ 
+.column {
+  float: left;
+  width: 50%;
+  padding: 10px;
+  height: 300px; 
+
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+
+
+
+
+

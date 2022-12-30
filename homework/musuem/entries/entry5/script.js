@@ -1,23 +1,27 @@
-function stanza1(){
-    document.getElementById("hidden1").style.color="#aa8ead";
+function click2(){
+    document.getElementById("stanza2").style.color="white";
 }
 
-function stanza2(){
-    document.getElementById("hidden2").style.color="#aa8ead";
+function click3(){
+    document.getElementById("stanza3").style.color="white";
 }
 
-function stanza3(){
-    document.getElementById("hidden3").style.color="#aa8ead";
+function click4(){
+    document.getElementById("stanza4").style.color="white";
 }
 
-function stanza4(){
-    document.getElementById("hidden4").style.color="#aa8ead";
+function click4(){
+    document.getElementById("stanza4").style.color="white";
 }
 
-function stanza5(){
-    document.getElementById("hidden5").style.color="#aa8ead";
+function click5(){
+    document.getElementById("stanza5").style.color="white";
 }
 
-function stanza6(){
-    document.getElementById("hidden6").style.color="#aa8ead";
+function click6(){
+    document.getElementById("stanza6").style.color="white";
 }
+
+
+
+

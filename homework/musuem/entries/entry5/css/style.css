@@ -1,25 +1,34 @@
-pre {
-    text-align:center;
-    color:white;
-}
 
-p {
+
+div {
    text-align:center; 
     font-family:monospace;
-    font-size:
-}
-.hidden{
-    color:#6f3d75;
 }
 
 body{
-    background-color:#6f3d75;
+    background-color:#507856;
 }
 
 a{
-    color:beige
+    color:beige;
+    text-align:center; 
+    font-family:monospace;
 }
 
-title{
-    color:white
+.grid-container {
+  display: grid;
+  grid-template-columns: auto auto auto;
+  padding: 10px;
 }
+.grid-item {
+  padding: 20px;
+  font-size: 12px;
+  text-align: center;
+    color:#507856;
+}
+#stanza1{
+    color:white;
+}
+        
+        
+
